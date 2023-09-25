@@ -1,7 +1,9 @@
-# Miatoll Kernel Releases
+## Miatoll Kernel Releases
 * Updated frequently with latest Linux, AOSP and Qualcomm changes.
 * Linux Kernel Version: **v4.14.275**
 * Qualcomm TAG: **LA.UM.9.1.r1-11900-SMxxx0.0**
+* Supported Android Version: **11-12**
+* ZIP flashable file in **Github Releases**
 ## Built-in drivers
 It is known that Xiaomi shipped their kernel without `WIFI` and `AUDIO` drivers. These drivers can be acquired from **Codelinaro** git repository.
 These drivers are built-in inside the kernel, and they are updated with latest changes from `QUALCOMM` for maximum ***PERFORMANCE*** and ***STABILITY***
